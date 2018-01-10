@@ -1,0 +1,27 @@
+body{
+  /*background-image: linear-gradient(to left top, #ff5305, #ffffff);*/
+}
+
+#container{
+  margin-left:80px;
+  margin-top:50px;
+  width:600px;
+  height:800px;
+  display: inline-block;
+}
+
+h1, h2, h3{
+  font-family: "nimbus-sans";
+}
+
+h1 {
+  color:#FF530D;
+}
+
+a, a visited {
+  color:#FF530D;
+}
+
+p {
+  font-family: "prestige-elite-std",monospace;
+}
