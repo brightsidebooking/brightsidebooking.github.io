@@ -1,5 +1,7 @@
 body{
-  /*background-image: linear-gradient(to left top, #ff5305, #ffffff);*/
+  /* background-image: linear-gradient(to left top, #ff5305, #ffffff); */
+  width:100%;
+  height:100%;
 }
 
 #container{
@@ -18,10 +20,35 @@ h1 {
   color:#FF530D;
 }
 
+h1 img{
+  width:450px;
+}
+
 a, a visited {
   color:#FF530D;
 }
 
 p {
   font-family: "prestige-elite-std",monospace;
+}
+
+@media only screen and (min-width : 320px) {
+
+  h1 img{
+    width:700px;
+  }
+
+  h2{
+    font-size:2em;
+  }
+
+  h3{
+    font-size:2.5em;
+  }
+
+  p{
+    font-size:2em;
+  }
+
+
 }
