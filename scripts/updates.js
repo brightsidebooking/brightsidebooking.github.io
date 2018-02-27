@@ -11,7 +11,8 @@ function Show(title, bands, date, flierImgPath, fbEventUrl){
 
     self.getDisplayText = function(){
         let displayString = self.title === null ? getBandList() : self.title;
-        return '<p><a href="'+ self.fbEventUrl + '" target="_blank">' + self.dateString + ' -- ' + displayString + '</a> -- <a href="'+ self.flierImgPath + '" target="_blank">'+'flier</a></p>';
+        let flierText = self.flierImgPath === null ? "" : ' -- <a href="'+ self.flierImgPath + '" target="_blank">'+'flier</a>';
+        return '<p><a href="'+ self.fbEventUrl + '" target="_blank">' + self.dateString + ' -- ' + displayString + '</a>'+ flierText + '</p>';
     };
 
     function getBandList(){
