@@ -30,6 +30,7 @@ a, a visited {
 
 p {
   font-family: "prestige-elite-std",monospace;
+  white-space: nowrap;
 }
 
 @media only screen and (max-width : 320px) {
