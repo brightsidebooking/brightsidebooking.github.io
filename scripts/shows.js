@@ -40,4 +40,11 @@ shows.push({
     "date"  : "03.16.2018",
     "flierImgPath": "img/fliers/03162018.jpg",
     "fbEventUrl" : "http://www.facebook.com/events/317908582050961/"
+},
+{
+    "title" : null,
+    "bands" : ["November Lounge", "Cory Paternoster", "Hometime", "The Last Arizona"],
+    "date"  : "03.31.2018",
+    "flierImgPath": "img/fliers/03312018.png",
+    "fbEventUrl" : "http://www.facebook.com/events/919968388170590/"
 });
