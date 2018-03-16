@@ -45,7 +45,7 @@ shows.push({
     "title" : null,
     "bands" : ["Seasonal", "Trench", "Carrier", "Vicious Blossom"],
     "date"  : "03.24.2018",
-    "flierImgPath": null,
+    "flierImgPath": "img/fliers/03242018.png",
     "fbEventUrl" : "http://www.facebook.com/events/341242176384577/"
 },
 {
