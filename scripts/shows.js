@@ -50,7 +50,7 @@ shows.push({
 },
 {
     "title" : null,
-    "bands" : ["November Lounge", "Cory Paternoster", "Hometime", "The Last Arizona"],
+    "bands" : ["November Lounge", "Cory Paternoster", "Hometime", "Billy Gartrell"],
     "date"  : "03.31.2018",
     "flierImgPath": "img/fliers/03312018.png",
     "fbEventUrl" : "http://www.facebook.com/events/919968388170590/"
