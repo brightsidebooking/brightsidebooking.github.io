@@ -54,4 +54,11 @@ shows.push({
     "date"  : "03.31.2018",
     "flierImgPath": "img/fliers/03312018.png",
     "fbEventUrl" : "http://www.facebook.com/events/919968388170590/"
+},
+{
+    "title" : "SteveO and the Crippling Addictions at The Kaleidoscope",
+    "bands" : ["Steveo & The Crippling Addictions", "Hi Ho", "Billy Gartrell", "Nick Cove"],
+    "date"  : "04.28.2018",
+    "flierImgPath": "img/fliers/04282018.jpg",
+    "fbEventUrl" : "http://www.facebook.com/events/153953268773953/"
 });
