@@ -61,4 +61,18 @@ shows.push({
     "date"  : "04.28.2018",
     "flierImgPath": "img/fliers/04282018.jpg",
     "fbEventUrl" : "http://www.facebook.com/events/153953268773953/"
+},
+{
+    "title" : "Punch Drunk Tagalongs, Talk Louder, Nick Cove & The Wandering",
+    "bands" : ["Punch Drunk Tagalongs", "Talk Louder", "Nick Cove & The Wandering"],
+    "date"  : "06.23.2018",
+    "flierImgPath": null,
+    "fbEventUrl" : "http://www.facebook.com/events/556407004758970/"
+},
+{
+    "title" : "Mid Atlantic Title, Fall Of The Albatross, and Friends at Moira",
+    "bands" : ["November Lounge", "Mid Atlantic Title", "Seasonal", "Fall Of The Albatross"],
+    "date"  : "07.01.2018",
+    "flierImgPath": null,
+    "fbEventUrl" : "http://www.facebook.com/events/1705899999491855/"
 });
