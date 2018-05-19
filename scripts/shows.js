@@ -75,4 +75,11 @@ shows.push({
     "date"  : "07.01.2018",
     "flierImgPath": null,
     "fbEventUrl" : "http://www.facebook.com/events/1705899999491855/"
+},
+{
+    "title" : "Sun Not Yellow, Qwark, Ugly Sun, Witch Bomb at Moira",
+    "bands" : ["Sun Not Yellow", "Qwark", "Ugly Sun", "Witch Bomb"],
+    "date"  : "07.13.2018",
+    "flierImgPath": null,
+    "fbEventUrl" : "http://www.facebook.com/events/848372692036621/"
 });
