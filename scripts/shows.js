@@ -66,7 +66,7 @@ shows.push({
     "title" : "Punch Drunk Tagalongs, Talk Louder, Nick Cove & The Wandering",
     "bands" : ["Punch Drunk Tagalongs", "Talk Louder", "Nick Cove & The Wandering"],
     "date"  : "06.23.2018",
-    "flierImgPath": null,
+    "flierImgPath": "img/fliers/06232018.png",
     "fbEventUrl" : "http://www.facebook.com/events/556407004758970/"
 },
 {
