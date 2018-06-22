@@ -73,7 +73,7 @@ shows.push({
     "title" : "Mid Atlantic Title, Fall Of The Albatross, and Friends at Moira",
     "bands" : ["November Lounge", "Mid Atlantic Title", "Seasonal", "Fall Of The Albatross"],
     "date"  : "07.01.2018",
-    "flierImgPath": null,
+    "flierImgPath": "img/fliers/07012018.jpg",
     "fbEventUrl" : "http://www.facebook.com/events/1705899999491855/"
 },
 {
