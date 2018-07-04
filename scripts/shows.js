@@ -80,6 +80,6 @@ shows.push({
     "title" : "Sun Not Yellow, Qwark, Ugly Sun, Witch Bomb at Moira",
     "bands" : ["Sun Not Yellow", "Qwark", "Ugly Sun", "Witch Bomb"],
     "date"  : "07.13.2018",
-    "flierImgPath": null,
+    "flierImgPath": "img/fliers/07132018.png",
     "fbEventUrl" : "http://www.facebook.com/events/848372692036621/"
 });
