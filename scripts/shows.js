@@ -82,4 +82,11 @@ shows.push({
     "date"  : "07.13.2018",
     "flierImgPath": "img/fliers/07132018.png",
     "fbEventUrl" : "http://www.facebook.com/events/848372692036621/"
+},
+{
+    "title" : "Cory Paternoster, Sciencevision, Tyler Burkhart, Chris Beaulieu",
+    "bands" : ["Cory Paternoster", "Sciencevision", "Tyler Burkhart", "Chris Beaulieu"],
+    "date"  : "11.11.2018",
+    "flierImgPath": "img/fliers/11112018.png",
+    "fbEventUrl" : "http://www.facebook.com/events/2147935605445023"
 });
